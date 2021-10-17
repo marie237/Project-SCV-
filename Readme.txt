@@ -39,6 +39,8 @@ Update on the tasks:
 Work can be found in the folder ‘Maps’. The goal here is to produce a map of the world with both the number of tennis players per country and the number of tourney per country.
 First we had to extract the wanted number from the raw data and write in down in the files ‘list_country.csv’ and ‘list_tourney.csv’. Then, after discovering the package tmap, the desired numbers were added to the ‘World’ sf data frame. A first plot was produced, but work still need to be done to get better visual result.
 	-Marie Abadie
+-Week 4 octobre: Presentation of the context + problematic on introduction. Start study performance and height (creation indicator of permorfance, correlation heigt and perf (no)) + star study correlation age and performance (no correlation). NEXT STEP: continue study with height but restric the study to the performace of a particular aspect of the game (service). For the age need more data to inspect the Mattew effect (birth begginning year).
+-Week 11 octobre: Continue work on the study of performance and height (prblm with R, have to re code performance indicator and the beggining). Focus on serve, developp charact of performance for serve (aces, double fault, percentage winning point after 1st and 2nd serve etc). Histogramm and boxplot for visualization of these characts. Test correlation with height and if indeed correlation test correlation with performance. NEXT STEP: wrrite everything properly in the report + dvp the age aspect if enough time.
 	-Ilan Perez
 	-Paul Bagourd
 	-Clarisse Schumer
